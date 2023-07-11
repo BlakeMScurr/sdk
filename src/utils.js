@@ -5,7 +5,7 @@ const { utils: { stringifyBigInts }, Scalar, ZqField } = require("ffjavascript")
 
 // max snark field element
 const F = new ZqField(Scalar.fromString(
-    "21888242871839275222246405745257275088548364400416034343698204186575808495617"
+    "28948022309329048855892746252171976963363056481941647379679742748393362948097"
 ));
 
 // zero value as a string
